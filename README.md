@@ -5,9 +5,9 @@
   - Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
   - Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting,               analyzing, and visualizing the data.
 
-## Deliverable 1
+### Deliverable 1
 
-### Collect the Data
+#### Collect the Data
 
   - Use the NumPy module to generate more than 2000 random latitudes and longitudes.
   - Use the citipy module to list the nearest city to the latitudes and longitudes.
@@ -29,7 +29,7 @@
         
         - Current Description
         
-## Deliverable 2: Create a Customer Travel Destinations Map
+### Deliverable 2: Create a Customer Travel Destinations Map
 
   - Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
 
@@ -41,6 +41,11 @@
 
         - Store the name of the first hotel in the DataFrame.
      
-        - Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city
+        - Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
      
-## Deliverable 3: Create a Travel Itinerary Map
+### Deliverable 3: Create a Travel Itinerary Map
+
+  -For this deliverable, we will use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s        possible travel destinations. 
+  - Then, we will create a marker layer map with a pop-up marker for each city on the itinerary.
+
+## Results 
