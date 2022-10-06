@@ -8,6 +8,7 @@
 ### Deliverable 1
 
 [Weather Database Code](Weather_Database/Weather_Database.ipynb)
+[WeatherDatabase csv](Weather_Database/WeatherPy_Database.csv)
 
 
 #### Collect the Data
@@ -34,6 +35,10 @@
         
 ### Deliverable 2: Create a Customer Travel Destinations Map
 
+[Vacation Search Code](Vacation_Search/Vacation_Search.ipynb )
+[WeatherPy vacation csv](Vacation_Search/WeatherPy_vacation.csv )
+
+
   - Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
 
         - Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
@@ -48,7 +53,15 @@
      
 ### Deliverable 3: Create a Travel Itinerary Map
 
+[Vacation_Itinerary Code](Vacation_Itinerary/Vacation_Itinerary.ipynb )
+
   -For this deliverable, we will use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s        possible travel destinations. 
   - Then, we will create a marker layer map with a pop-up marker for each city on the itinerary.
 
 ## Results 
+
+[WeatherPy vacation PNG](Vacation_Search/WeatherPy_vacation_map.png )
+
+[WeatherPy_travel_map PNG](Vacation_Itinerary/WeatherPy_travel_map.png )
+
+[WeatherPy_travel_map_markers PNG](Vacation_Itinerary/WeatherPy_travel_map_markers.png )
