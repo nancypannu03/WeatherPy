@@ -57,7 +57,7 @@
 
 [Vacation_Itinerary Code](Vacation_Itinerary/Vacation_Itinerary.ipynb )
 
-  -For this deliverable, we will use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s        possible travel destinations. 
+  - For this deliverable, we will use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s        possible travel destinations. 
   - Then, we will create a marker layer map with a pop-up marker for each city on the itinerary.
 
 ## Results 
