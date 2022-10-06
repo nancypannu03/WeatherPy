@@ -65,9 +65,11 @@
 
 [WeatherPy vacation PNG](Vacation_Search/WeatherPy_vacation_map.png )
 
+
 ![Test Image](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 [WeatherPy_travel_map PNG](Vacation_Itinerary/WeatherPy_travel_map.png )
+
 
 ![Test Image](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
