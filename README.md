@@ -8,6 +8,7 @@
 ### Deliverable 1
 
 [Weather Database Code](Weather_Database/Weather_Database.ipynb)
+
 [WeatherDatabase csv](Weather_Database/WeatherPy_Database.csv)
 
 
@@ -36,6 +37,7 @@
 ### Deliverable 2: Create a Customer Travel Destinations Map
 
 [Vacation Search Code](Vacation_Search/Vacation_Search.ipynb )
+
 [WeatherPy vacation csv](Vacation_Search/WeatherPy_vacation.csv )
 
 
