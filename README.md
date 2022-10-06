@@ -61,9 +61,14 @@
   - Then, we will create a marker layer map with a pop-up marker for each city on the itinerary.
 
 ## Results 
+![Test Image](/Vacation_Search/WeatherPy_vacation_map.png)
 
 [WeatherPy vacation PNG](Vacation_Search/WeatherPy_vacation_map.png )
 
+![Test Image](/Vacation_Itinerary/WeatherPy_travel_map.png)
+
 [WeatherPy_travel_map PNG](Vacation_Itinerary/WeatherPy_travel_map.png )
+
+![Test Image](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 [WeatherPy_travel_map_markers PNG](Vacation_Itinerary/WeatherPy_travel_map_markers.png )
