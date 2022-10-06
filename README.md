@@ -14,6 +14,7 @@
   - Use the OpenWeatherMap API to request the current weather data from each unique city in your list.
   - Parse the JSON data from the API request.
   - Collect the following data from the JSON file and add it to a DataFrame:
+  
         - City, country, and date
         
         - Latitude and longitude
